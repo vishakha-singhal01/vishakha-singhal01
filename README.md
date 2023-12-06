@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishakha-singhal01&label=Profile%20views&color=0e75b6&style=flat" alt="vishakha-singhal01" /> </p>
 
-- 🔭 I’m currently working on **Netflix Clone Website**
-
 - 🌱 I’m currently learning **Advanced Data Structures & Algo**
 
 - 👯 I have successfully deployed [Community Website](https://www.pracedge.com)
